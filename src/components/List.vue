@@ -70,6 +70,7 @@
     </div>
 </template>
 
+<!--Test comment -->
 <script>
 import taskList from "../../resources/itemList.json";
 
